@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello Java Jenkins world");
         System.out.println("I am learning Jenkins with Java and Git");
         System.out.println(new Date().getTime());
-
+        System.out.println("Check automatic changes due to jenkins");
     }
 }
